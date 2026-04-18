@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://roken9797.github.io/sei-atelier/sitemap.xml
+Sitemap: https://sei-atelier-japan.com/sitemap.xml
